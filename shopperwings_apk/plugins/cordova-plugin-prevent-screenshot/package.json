@@ -1,0 +1,53 @@
+{
+  "_from": "cordova-plugin-prevent-screenshot",
+  "_id": "cordova-plugin-prevent-screenshot@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-EDR+rkKFCnZPnOyOw609mdXC2+tN5Y+eGgjwHDBhMRr8vF9fXxbkSH3t4+CVmwnqRF/mOudS74daFQdANhwATg==",
+  "_location": "/cordova-plugin-prevent-screenshot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-prevent-screenshot",
+    "name": "cordova-plugin-prevent-screenshot",
+    "escapedName": "cordova-plugin-prevent-screenshot",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-prevent-screenshot/-/cordova-plugin-prevent-screenshot-1.0.3.tgz",
+  "_shasum": "e9f319d97efd56c80ee51648a6d962481273f2c5",
+  "_spec": "cordova-plugin-prevent-screenshot",
+  "_where": "C:\\Users\\Deepak\\Desktop\\LifeLine\\my_college",
+  "author": {
+    "name": "Sandata"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-prevent-screenshot",
+    "platforms": "android"
+  },
+  "deprecated": false,
+  "description": "Cordova Prevent Screenshots",
+  "homepage": "",
+  "keywords": [
+    "cordova",
+    "preventscreenshots",
+    "screenshots"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cordova-plugin-prevent-screenshot",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}

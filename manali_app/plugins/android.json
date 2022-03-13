@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    },
+    "cordova-plugin-crypto-file": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    },
+    "cordova-plugin-prevent-screenshot": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.manali.manali_rahangdale"
+    }
+  }
+}

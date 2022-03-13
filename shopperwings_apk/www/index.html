@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+body {
+    width: 100%;
+    height: 100vh;
+    max-height: 100%;
+    overflow: hidden;
+    margin: 0;
+    position: relative;
+}
+.img-container img {
+    position: absolute;
+    max-width: 100%;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+	</style>
+</head>
+<body id="body1">
+
+<div class="img-container">
+    <img src="img/logo.png">
+</div>
+
+
+<script type="text/javascript">
+
+//fullscreeen
+/*var bd=document.getElementById('body1');
+bd.requestFullscreen();
+not work chrome because that need intaract like key press butn,,...*/
+
+window.setTimeout(function(){
+	redir();
+},3000);
+
+
+
+
+
+function redir(){
+
+	window.location.href="http://shopperwings.store";
+
+}
+
+</script>
+</body>
+</html>

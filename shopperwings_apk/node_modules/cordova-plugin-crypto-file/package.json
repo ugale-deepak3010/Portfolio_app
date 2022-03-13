@@ -1,0 +1,48 @@
+{
+  "_from": "cordova-plugin-crypto-file",
+  "_id": "cordova-plugin-crypto-file@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-fkyCLwVlkH5FG471HsncaGtWtd3xEqLnBLPsGK0rq9UIzci3hVZbOmGm+T2tqEAxarRxuh2bf+nfNwpEXcndlw==",
+  "_location": "/cordova-plugin-crypto-file",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-crypto-file",
+    "name": "cordova-plugin-crypto-file",
+    "escapedName": "cordova-plugin-crypto-file",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-crypto-file/-/cordova-plugin-crypto-file-1.4.0.tgz",
+  "_shasum": "455b7181093e73d3a8816498300a7f7706c7994e",
+  "_spec": "cordova-plugin-crypto-file",
+  "_where": "C:\\Users\\Deepak\\Desktop\\LifeLine\\my_college",
+  "author": {
+    "name": "PeterHdd"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterHdd/cordova-plugin-crypto-file/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This plugin to encrypt/decrypt the source files.",
+  "homepage": "https://github.com/PeterHdd/cordova-plugin-crypto-file#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache version 2.0",
+  "name": "cordova-plugin-crypto-file",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterHdd/cordova-plugin-crypto-file.git"
+  },
+  "version": "1.4.0"
+}

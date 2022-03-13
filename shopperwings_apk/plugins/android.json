@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    },
+    "cordova-plugin-crypto-file": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    },
+    "cordova-plugin-prevent-screenshot": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.deepsoft.shopperwings"
+    }
+  }
+}
